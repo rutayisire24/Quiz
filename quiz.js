@@ -1,9 +1,9 @@
 // Define an array of quiz questions
 const quizQuestions = [
   {
-    question: "What is the capital of France?",
-    options: ["Paris", "London", "Berlin", "Rome"],
-    correctAnswer: "Paris"
+    question: "Which movie was the first in production? ",
+    options: ["Oppenheimer", "Barbie", "Transformers", "Rome"],
+    correctAnswer: "Oppenheimer"
   },
   {
     question: "Which planet is known as the Red Planet?",
